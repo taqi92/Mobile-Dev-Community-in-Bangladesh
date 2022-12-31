@@ -137,6 +137,21 @@ https://github.com/ZRShamim[Github], https://www.linkedin.com/in/ziaur-shamim/[L
 // end of a table
 
 
+// start from here
+
+|Taqi Tahmid Tanzil
+|Software Engineer at Dhrubok Infotech Services Ltd
+
+Total experience : 5+ years
+
+|Flutter, Native Android, MVVM, Getx, GraphQL, REST API, Database [ Firebase, Hive ], Git, C, Dart, Java, Kotlin, Swift, Postman, Insomnia, Jira, Trello, Manjaro Linux, vim.
+|t.tanzil92@gmail.com
+
+ https://github.com/taqi92[Github], https://www.linkedin.com/in/t-t-tanzil/[Linkedin]
+
+// end of a table
+
+
 
 
 |===
